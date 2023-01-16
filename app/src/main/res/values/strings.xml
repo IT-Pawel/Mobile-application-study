@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Projekt Zaliczeniowy</string>
+
+    <string-array name="jednostkiOdleglosci">
+        <item>metr</item>
+        <item>paznokieć</item>
+        <item>palec</item>
+        <item>stopa</item>
+    </string-array>
+
+    <string-array name="jednostkiWagi">
+        <item>kilogram</item>
+        <item>funt</item>
+        <item>uncja</item>
+        <item>siodło</item>
+    </string-array>
+
+
+</resources>
+
